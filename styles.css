@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300&display=swap');
+
+
 #txt-input{
     display: block;
     height: 10vh;
@@ -15,5 +18,27 @@
 }
 #btn-translate{
  color:black;
- background-color: yellow;
+ background-color: #ecc94b;
+}
+.title{
+ color:black;
+ background-color: #ecc94b;
+ padding: 1rem;
+ text-align: center ;
+ padding: 2rem;
+ 
+}
+
+.footer{
+    text-align: center;
+    color:black;
+    background-color: #ecc94b;
+    font-size:medium;
+    font-size:15px;
+    padding: 2rem;
+}
+.image{
+    max-width:80rem;
+    height:30rem;
+    margin:auto;
 }
